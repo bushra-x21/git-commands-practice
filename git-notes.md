@@ -101,6 +101,10 @@ git checkout main
 git merge feature-branch
 
 ```
+## 📊 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bushra-x21&show_icons=true&theme=Merko)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-x21&layout=compact&theme=Merko)
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
