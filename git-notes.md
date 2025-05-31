@@ -103,8 +103,8 @@ git merge feature-branch
 ```
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bushra-x21&show_icons=true&theme=Merko)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bushra-x21&show_icons=true&theme=merko)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-x21&layout=compact&theme=Merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-x21&layout=compact&theme=merko)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=Merkp)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=merko)
