@@ -107,4 +107,5 @@ git merge feature-branch
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-x21&layout=compact&theme=merko)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=merko)
+![Profile Views](https://komarev.com/ghpvc/?username=bushra-x21&color=merko)
+![Profile Views](https://komarev.com/ghpvc/?username=bushra-x21&color=0d1117)
